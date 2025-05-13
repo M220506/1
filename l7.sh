@@ -24,5 +24,5 @@ wget https://raw.githubusercontent.com/M220506/1/refs/heads/main/new.js
 wget https://raw.githubusercontent.com/M220506/1/refs/heads/main/api_list.txt
 wget https://raw.githubusercontent.com/M220506/1/refs/heads/main/scrape.py
 wget https://raw.githubusercontent.com/M220506/1/refs/heads/main/tls.js
-wget https://raw.githubusercontent.com/M220506/1/refs/heads/main/http.txt
+wget https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/http.txt
 wget https://raw.githubusercontent.com/M220506/1/refs/heads/main/floodvip.js
