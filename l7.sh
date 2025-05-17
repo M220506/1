@@ -5,7 +5,7 @@ apt update
 apt upgrade -y
 
 echo "[*] Installiere nodejs, dstat und npm..."
-apt install -y nodejs dstat npm python3-pip wget
+apt install -y nodejs dstat npm python3-pip wget php php-ssh2 apache2
 
 echo "[*] Installiere cloudscraper und request..."
 npm install request
