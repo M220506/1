@@ -25,9 +25,7 @@ def worker(ip, port, secs):
     try:
         # 1) HTTP-Session mit Proxy einrichten
         browser = requests.session()
-        raw_proxy = prox()
-        proxy = f"http://{raw_proxy}"
-        browser.proxies = {"http": proxy}
+# Keine Proxies aktivieren – direkte Verbindung
         token = str(uuid.uuid4())
 
         client_headers = {
