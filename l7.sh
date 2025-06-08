@@ -17,6 +17,7 @@ npm i set-cookie-parser
 npm i events
 npm i colors
 npm i hpack
+npm install puppeteer commander
 pip install httpx
 pip install colorama
 
